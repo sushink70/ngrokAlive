@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-- **Muhammad Anas** - *Initial work* - [Otovva INC](https://example.com)
+- **Sushin K** - *Initial work*
 
 ---
 
