@@ -35,8 +35,8 @@ Before running this script, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ngrok-tunnel-launcher.git
-   cd ngrok-tunnel-launcher
+   git clone https://github.com/sushink70/ngrokAlive.git
+   cd ngrokAlive
    ```
 
 2. **Verify the ngrok Binary**
